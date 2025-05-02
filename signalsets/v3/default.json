@@ -5,7 +5,7 @@
   ]},
 { "hdr": "733", "dbg": true, "cmd": {"22": "9924"}, "freq": 30,
   "signals": [
-    {"id": "FPACE_AAT", "path": "Climate", "fmt": { "len": 8, "max": 80, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Outside Temperature"}
+    {"id": "FPACE_AAT", "path": "Climate", "fmt": { "len": 8, "max": 80, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Outside temperature"}
   ]},
 { "hdr": "751", "dbg": true, "cmd": {"22": "2076"}, "freq": 5,
   "signals": [
@@ -29,7 +29,7 @@
   ]},
 { "hdr": "7E4", "dbg": true, "cmd": {"22": "DD09"}, "freq": 5,
   "signals": [
-    {"id": "FPACE_VSS", "path": "Movement", "fmt": { "len": 8, "max": 220, "unit": "kilometersPerHour" }, "name": "Vehicle Speed", "suggestedMetric": "speed"}
+    {"id": "FPACE_VSS", "path": "Movement", "fmt": { "len": 8, "max": 220, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]}
 ]
 }
