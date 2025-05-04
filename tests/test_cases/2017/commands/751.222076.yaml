@@ -1,0 +1,43 @@
+command_id: '751.222076'
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7590562207600A8
+  expected_values:
+    FPACE_TP_FL: 2.30664
+- response: 7590562207600AA
+  expected_values:
+    FPACE_TP_FL: 2.3341
+- response: 7590562207600AC
+  expected_values:
+    FPACE_TP_FL: 2.36156
+- response: 7590562207600AE
+  expected_values:
+    FPACE_TP_FL: 2.38902
+- response: 7590562207600B0
+  expected_values:
+    FPACE_TP_FL: 2.41648
+- response: 7590562207600B2
+  expected_values:
+    FPACE_TP_FL: 2.44394
+- response: 7590562207600B4
+  expected_values:
+    FPACE_TP_FL: 2.4714
+- response: 7590562207600B6
+  expected_values:
+    FPACE_TP_FL: 2.49886
+- response: 7590562207600B8
+  expected_values:
+    FPACE_TP_FL: 2.52632
+- response: 7590562207600BA
+  expected_values:
+    FPACE_TP_FL: 2.55378
+- response: 7590562207600BC
+  expected_values:
+    FPACE_TP_FL: 2.58124
+- response: 7590562207600BE
+  expected_values:
+    FPACE_TP_FL: 2.6087
+- response: 7590562207600C0
+  expected_values:
+    FPACE_TP_FL: 2.63616

@@ -1,0 +1,22 @@
+command_id: 732.22D928
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 73A0462D92800
+  expected_values:
+    FPACE_PARKED: 0
+- response: 73A0462D92801
+  expected_values:
+    FPACE_PARKED: 1
+- response: 73A0462D92802
+  expected_values:
+    FPACE_PARKED: 0
+- response: 73A0462D92803
+  expected_values:
+    FPACE_PARKED: 1
+- response: 7E80562D9280000
+  expected_values:
+    FPACE_PARKED: 0
+- response: 7E80562D928FFFF
+  expected_values:
+    FPACE_PARKED: 1
