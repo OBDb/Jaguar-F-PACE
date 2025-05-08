@@ -2,9 +2,9 @@ command_id: '751.222077'
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7590562207700A6
+- response: 7590562207700A0
   expected_values:
-    FPACE_TP_FR: 2.27918
+    FPACE_TP_FR: 2.1968
 - response: 7590562207700C0
   expected_values:
     FPACE_TP_FR: 2.63616
