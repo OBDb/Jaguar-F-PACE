@@ -14,6 +14,9 @@ test_cases:
 - response: 73A0462D92803
   expected_values:
     FPACE_PARKED: 1
+- response: 73A0462D92807
+  expected_values:
+    FPACE_PARKED: 1
 - response: 7E80562D9280000
   expected_values:
     FPACE_PARKED: 0
