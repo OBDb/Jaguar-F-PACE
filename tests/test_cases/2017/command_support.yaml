@@ -106,6 +106,6 @@ unsupported_commands_by_ecu:
   - 7E4.22490F
   - 7E4.224910
   - 7E4.224918
-  - 7E4.22DD01
+  - 7E4.22DD01:FPACE_ODOMETER
   - 7E4.22DD09
   - 7E4.7E8.220434
