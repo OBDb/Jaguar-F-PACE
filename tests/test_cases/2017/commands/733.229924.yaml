@@ -1,8 +1,6 @@
 command_id: '733.229924'
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 73B 04 62 99 24 74
+- response: '73B 04 62 99 24 74 '
   expected_values:
     FPACE_AAT: 18
 - response: 73B046299243C
