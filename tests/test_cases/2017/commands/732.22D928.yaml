@@ -1,23 +1,23 @@
 command_id: 732.22D928
 test_cases:
-- response: 73A0462D92800
-  expected_values:
+- expected_values:
     FPACE_PARKED: 0
-- response: 73A0462D92801
-  expected_values:
+  response: 73A0462D92800
+- expected_values:
     FPACE_PARKED: 1
-- response: 73A0462D92802
-  expected_values:
+  response: 73A0462D92801
+- expected_values:
     FPACE_PARKED: 0
-- response: 73A0462D92803
-  expected_values:
+  response: 73A0462D92802
+- expected_values:
     FPACE_PARKED: 1
-- response: 73A0462D92807
-  expected_values:
+  response: 73A0462D92803
+- expected_values:
     FPACE_PARKED: 1
-- response: 7E80562D9280000
-  expected_values:
+  response: 73A0462D92807
+- expected_values:
     FPACE_PARKED: 0
-- response: 7E80562D928FFFF
-  expected_values:
+  response: 7E80562D9280000
+- expected_values:
     FPACE_PARKED: 1
+  response: 7E80562D928FFFF

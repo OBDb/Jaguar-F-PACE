@@ -1,11 +1,11 @@
 command_id: '733.229924'
 test_cases:
-- response: '73B 04 62 99 24 74 '
-  expected_values:
+- expected_values:
     FPACE_AAT: 18
-- response: 73B046299243C
-  expected_values:
+  response: '73B 04 62 99 24 74 '
+- expected_values:
     FPACE_AAT: -10
-- response: 73B046299248B
-  expected_values:
-    FPACE_AAT: 29.5
+  response: 73B046299243C
+- expected_values:
+    FPACE_AAT: 32.5
+  response: 73B0462992491
