@@ -1,0 +1,14 @@
+command_id: 7E4.22DD01
+test_cases:
+- expected_values:
+    FPACE_ODOMETER: 100271
+  response: 7E80662DD010187AF
+- expected_values:
+    FPACE_ODOMETER: 100273
+  response: 7E80662DD010187B1
+- expected_values:
+    FPACE_ODOMETER: 100369
+  response: 7E80662DD01018811
+- expected_values:
+    FPACE_ODOMETER: 100271
+  response: 7EE0662DD010187AF
