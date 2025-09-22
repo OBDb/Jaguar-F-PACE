@@ -7,5 +7,5 @@ test_cases:
     FPACE_AAT: -10
   response: 73B046299243C
 - expected_values:
-    FPACE_AAT: 32.5
-  response: 73B0462992491
+    FPACE_AAT: 35.5
+  response: 73B0462992497
