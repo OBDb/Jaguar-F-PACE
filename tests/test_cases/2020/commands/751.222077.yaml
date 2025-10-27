@@ -1,0 +1,11 @@
+command_id: '751.222077'
+test_cases:
+- expected_values:
+    FPACE_TP_FR: 2.08696
+  response: '759056220770098'
+- expected_values:
+    FPACE_TP_FR: 2.16934
+  response: 75905622077009E
+- expected_values:
+    FPACE_TP_FR: 2.1968
+  response: 7590562207700A0
