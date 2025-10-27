@@ -1,0 +1,5 @@
+command_id: '733.229924'
+test_cases:
+- expected_values:
+    FPACE_AAT: 25.5
+  response: 73B0462992483
