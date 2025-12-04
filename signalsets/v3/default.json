@@ -23,7 +23,7 @@
   "signals": [
     {"id": "FPACE_TP_RL", "path": "Tires", "fmt": {"bix": 8, "len": 8, "max": 5, "mul": 0.01373, "unit": "bars" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "7E4", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2021 },
+{ "hdr": "7E4", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "FPACE_ODOMETER", "path": "Movement", "fmt": { "len": 24, "max": 1000000, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]}
